@@ -1,0 +1,15 @@
+D:\ReactTODOApp\ReactTODOApp\bin\Release\netcoreapp2.1\ReactTODOApp.deps.json
+D:\ReactTODOApp\ReactTODOApp\bin\Release\netcoreapp2.1\ReactTODOApp.runtimeconfig.json
+D:\ReactTODOApp\ReactTODOApp\bin\Release\netcoreapp2.1\ReactTODOApp.runtimeconfig.dev.json
+D:\ReactTODOApp\ReactTODOApp\bin\Release\netcoreapp2.1\ReactTODOApp.dll
+D:\ReactTODOApp\ReactTODOApp\bin\Release\netcoreapp2.1\ReactTODOApp.pdb
+D:\ReactTODOApp\ReactTODOApp\obj\Release\netcoreapp2.1\ReactTODOApp.csprojAssemblyReference.cache
+D:\ReactTODOApp\ReactTODOApp\obj\Release\netcoreapp2.1\ReactTODOApp.csproj.CoreCompileInputs.cache
+D:\ReactTODOApp\ReactTODOApp\obj\Release\netcoreapp2.1\ReactTODOApp.RazorAssemblyInfo.cache
+D:\ReactTODOApp\ReactTODOApp\obj\Release\netcoreapp2.1\ReactTODOApp.RazorAssemblyInfo.cs
+D:\ReactTODOApp\ReactTODOApp\obj\Release\netcoreapp2.1\ReactTODOApp.AssemblyInfoInputs.cache
+D:\ReactTODOApp\ReactTODOApp\obj\Release\netcoreapp2.1\ReactTODOApp.AssemblyInfo.cs
+D:\ReactTODOApp\ReactTODOApp\obj\Release\netcoreapp2.1\ReactTODOApp.RazorTargetAssemblyInfo.cache
+D:\ReactTODOApp\ReactTODOApp\obj\Release\netcoreapp2.1\ReactTODOApp.dll
+D:\ReactTODOApp\ReactTODOApp\obj\Release\netcoreapp2.1\ReactTODOApp.pdb
+D:\ReactTODOApp\ReactTODOApp\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
